@@ -1,0 +1,4 @@
+org\konghao\util\HibernateUtil.class
+cn\mrsong\user\core\UserTest.class
+cn\mrsong\user\core\User.class
+cn\mrsong\user\core\Student.class
