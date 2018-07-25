@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>user-core</artifactId>
-
+  <name>user-core</name>
 
   <dependencies>
     <dependency>

@@ -8,7 +8,7 @@
   	<relativePath>../user-parent/pom.xml</relativePath>
   </parent>
   <artifactId>user-service</artifactId>
-
+  <name>user-service</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

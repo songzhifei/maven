@@ -14,14 +14,14 @@ public class TestUser {
 		Session session = HibernateUtil.openSession();
 		session.beginTransaction();
 		
-		User user = new User();
-		user.setUsername("admin");
-		user.setPassword("123");
-		user.setEmail("admin@admin.com");
-		
-		session.save(user);
-		
-		Assert.assertTrue(user.getId()>0);
+//		User user = new User();
+//		user.setUsername("admin");
+//		user.setPassword("123");
+//		user.setEmail("admin@admin.com");
+//		
+//		session.save(user);
+//		
+//		Assert.assertTrue(user.getId()>0);
 		
 		session.getTransaction().commit();
 		

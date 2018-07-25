@@ -10,7 +10,6 @@
   </parent>
 
   <artifactId>user-dao</artifactId>
-
   <name>user-dao</name>
   
   <dependencies>

@@ -18,6 +18,7 @@
   	<module>../user-dao</module>
   	<module>../user-log</module>
   	<module>../user-service</module>
+  	<module>../user-web</module>
   </modules>
   
   <dependencyManagement>
