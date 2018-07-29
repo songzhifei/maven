@@ -14,5 +14,16 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
     </dependency>
+    <dependency>
+    	<groupId>org.konghao.user</groupId>
+    	<artifactId>user-dao</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
+	<dependency>
+    	<groupId>org.springframework</groupId>
+    	<artifactId>spring-context-support</artifactId>
+	</dependency>
+    
   </dependencies>
 </project>
