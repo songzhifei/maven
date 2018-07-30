@@ -9,11 +9,9 @@
   	<relativePath>../user-parent/pom.xml</relativePath>
   </parent>
   
-  <groupId>org.konghao.user</groupId>
   <artifactId>user-web</artifactId>
   <packaging>war</packaging>
   
-  <version>0.0.1-SNAPSHOT</version>
   <name>user-web</name>
   
   <dependencies>
